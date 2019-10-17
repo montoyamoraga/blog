@@ -4,8 +4,8 @@
 
 hi! my name is aarón montoya-moraga, this is the first post of my blog, it will be hosted both on GithHub and Medium for now, on the following links:
 
-[https://github.com/montoyamoraga/blog](https://github.com/montoyamoraga/blog)
-[https://medium.com/montoyamoraga](https://medium.com/montoyamoraga)
+* [https://github.com/montoyamoraga/blog](https://github.com/montoyamoraga/blog)
+* [https://medium.com/montoyamoraga](https://medium.com/montoyamoraga)
 
 i will be posting and sharing notes about both my studies and my art practice, focusing on the process and not on the results, because i love open-source and transparency, and because i constantly learn so much from other people :)
 
@@ -19,8 +19,8 @@ huge shout-out to the communities i am part of, including NYU ITP, school of mac
 
 hola! mi nombre es aarón montoya-moraga, este es el primer post de mi blog, que estará alojado en GitHub y en Medium en los siguientes links:
 
-[https://github.com/montoyamoraga/blog](https://github.com/montoyamoraga/blog)
-[https://medium.com/montoyamoraga](https://medium.com/montoyamoraga)
+* [https://github.com/montoyamoraga/blog](https://github.com/montoyamoraga/blog)
+* [https://medium.com/montoyamoraga](https://medium.com/montoyamoraga)
 
 postearé y escribiré notas sobre mis estudios y mi práctica de artista, enfocándome en el proceso y no en los resultados, porque me encanta el código abierto y la transparencia, y porque aprendo constantemente de otra gente :)
 
@@ -28,7 +28,7 @@ todos los posts estarán escritos tanto en inglés como en español, y tendrán 
 
 mis intereses cambian, actualmente estoy trabajando en arte sonoro, salud mental, educación en artes mediales, arte performático, performance en vivo, y protocolos de computadores.
 
-grandes agradecimientos a todas las comunidades de las que soy parte, incluyendo NYU ITP, school of machines, Processing Foundation, MIT Media Lab, y a todes les artistes y amigues que hacen hermosos trabajos.
+grandes agradecimientos a todas las comunidades de las que soy parte, incluyendo [NYU ITP](https://tisch.nyu.edu/itp), [school of machines](https://schoolofma.org/), [Processing Foundation](https://processingfoundation.org/), [MIT Media Lab](https://www.media.mit.edu/), y a todes les artistes y amigues que hacen hermosos trabajos.
 
 ### MIT License
 
