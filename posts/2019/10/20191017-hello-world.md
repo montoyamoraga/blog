@@ -1,6 +1,6 @@
-20191017-hello-world
+# 20191017-hello-world
 
-# English
+## English
 
 hi! my name is aarón montoya-moraga, this is the first post of my blog, it will be hosted both on GithHub and Medium for now, on the following links:
 
@@ -15,7 +15,7 @@ my interests shift, nowadays i am working on sound art, mental health, media art
 
 huge shout-out to the communities i am part of, including NYU ITP, school of machines, Processing Foundation, MIT Media Lab, and to all the artists and friends that make beautiful work.
 
-# Español
+## Español
 
 hola! mi nombre es aarón montoya-moraga, este es el primer post de mi blog, que estará alojado en GitHub y en Medium en los siguientes links:
 
@@ -30,7 +30,7 @@ mis intereses cambian, actualmente estoy trabajando en arte sonoro, salud mental
 
 grandes agradecimientos a todas las comunidades de las que soy parte, incluyendo NYU ITP, school of machines, Processing Foundation, MIT Media Lab, y a todes les artistes y amigues que hacen hermosos trabajos.
 
-## MIT License
+### MIT License
 
 Copyright (c) [2019] [Aarón Montoya-Moraga]
 
