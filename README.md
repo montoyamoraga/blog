@@ -8,4 +8,7 @@ este es el blog de [aarón montoya-moraga](https://montoyamoraga.io/). cada post
 
 ## posts
 
+### 2019
+
+* [20191217-korg-mr-16](/posts/2019/12/220191217-korg-mr-16.md)
 * [20191017-hello-world](/posts/2019/10/20191017-hello-world.md)
